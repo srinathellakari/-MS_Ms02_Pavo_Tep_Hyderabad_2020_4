@@ -1,5 +1,10 @@
 # Milestone-2: SUDOKU
 
+# Team-4: 
+1. Srinath Ellakari
+2. shaik khaja mohinuddin
+3. Venkata krishnakanth Juluru
+
 ## Learning Competencies
 At the end of this milestone you will learn
  - Understanding object-oriented Javascript
